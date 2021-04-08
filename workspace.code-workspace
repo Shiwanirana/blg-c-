@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "client",
+			"path": "blg-client"
+		},
+		{
+			"name": "server",
+			"path": "blg-server"
+		}
+	],
+	"settings": {}
+}
